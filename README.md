@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/banner.png"
+    src="./assets/banner.jpg"
     width="400"  
 />
 </p>
