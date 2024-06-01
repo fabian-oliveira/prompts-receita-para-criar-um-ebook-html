@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="./assets/banner.jpg"
-    width="400"  
+    width="900"  
 />
 </p>
 
