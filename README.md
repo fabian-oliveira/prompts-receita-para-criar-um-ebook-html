@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/banner.jpg"
+    src="./assets/acesse.jpg"
     width="900"  
 />
 </p>
