@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/bannerebook (1).png"
+    src="./assets/bannerebook.png"
     width="900"  
 />
 </p>
